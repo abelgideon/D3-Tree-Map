@@ -1,6 +1,6 @@
 # D3 Tree Map
 
-This project visualizes video game sales data using a tree map. The interactive visualization allows users to explore video game sales by category and individual titles, providing a clear hierarchical representation.
+This project visualizes video game sales data using a tree map. The interactive visualization allows users to explore video game sales by category and individual titles, providing a clear hierarchical representation
 
 ## Features
 
